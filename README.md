@@ -8,7 +8,7 @@
 Um Desenvolvedor de Software Júnior, apaixonado pelo Spring 💚
 em busca da minha primeira certificação Java.
 
-- ⭐ Estudando Spring Security
+- ⭐ Estudando Spring Security e Angular
 -  🔥 Trabalhando no projeto HotelPet
 - 🎵 E ouvindo Linkin Park
 
